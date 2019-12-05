@@ -1,6 +1,7 @@
-import React from 'react'
+import React from 'react';
+import './Landing.css';
 
-function landing() {
+function Landing() {
     return(
       <div>
           This is landing page
@@ -11,4 +12,4 @@ function landing() {
 }
 
 
-export default landing();
+export default Landing;
